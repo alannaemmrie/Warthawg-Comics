@@ -396,6 +396,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Beyond",
+    "Issue #": 8,
+    "Condition": "GD",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Ace",
+    "Cost Basis": 40,
+    "": ""
+  },
+  {
     "Title": "Bible",
     "Issue #": 5,
     "Condition": "G",
@@ -4267,6 +4276,15 @@ export const data = [
   },
   {
     "Title": "Ringo Kid",
+    "Issue #": 6,
+    "Condition": "FN",
+    "Website Notes": "Maneely",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 45,
+    "": ""
+  },
+  {
+    "Title": "Ringo Kid",
     "Issue #": 19,
     "Condition": "F/VF",
     "Website Notes": "",
@@ -4528,20 +4546,20 @@ export const data = [
   },
   {
     "Title": "Sub-Mariner Comics",
-    "Issue #": 33,
-    "Condition": "VG-",
-    "Website Notes": "Origin",
-    "Personal Notes (Not on website)": "Timely",
-    "Cost Basis": 275,
-    "": ""
-  },
-  {
-    "Title": "Sub-Mariner Comics",
     "Issue #": 35,
     "Condition": "VG/F",
     "Website Notes": "",
     "Personal Notes (Not on website)": "Timely",
     "Cost Basis": 275,
+    "": ""
+  },
+  {
+    "Title": "Suspense",
+    "Issue #": 15,
+    "Condition": "VG+",
+    "Website Notes": "Maneely",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 125,
     "": ""
   },
   {
@@ -4887,6 +4905,15 @@ export const data = [
     "": ""
   },
   {
+    "Title": "Weird Mysteries",
+    "Issue #": 11,
+    "Condition": "G/VG",
+    "Website Notes": "Bailey",
+    "Personal Notes (Not on website)": "Gilmour",
+    "Cost Basis": 300,
+    "": ""
+  },
+  {
     "Title": "Weird Tales of the Future",
     "Issue #": 4,
     "Condition": "VG/F",
@@ -4929,6 +4956,15 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "Avon",
     "Cost Basis": 5,
+    "": ""
+  },
+  {
+    "Title": "Wild Western",
+    "Issue #": 47,
+    "Condition": "FN",
+    "Website Notes": "",
+    "Personal Notes (Not on website)": "Atlas",
+    "Cost Basis": 35,
     "": ""
   },
   {

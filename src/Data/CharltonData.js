@@ -249,6 +249,14 @@ export const data = [
   },
   {
     "Title": "Space Adventures",
+    "Issue #": 32,
+    "Condition": "VG/F",
+    "Website Notes": "Ditko C/A",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 40
+  },
+  {
+    "Title": "Space Adventures",
     "Issue #": 36,
     "Condition": "F/VF",
     "Website Notes": "Ditko C/A",
@@ -286,6 +294,14 @@ export const data = [
     "Website Notes": "",
     "Personal Notes (Not on website)": "",
     "Cost Basis": 125
+  },
+  {
+    "Title": "This Magazine is Haunted",
+    "Issue #": "V2#16",
+    "Condition": "CGC 6.5",
+    "Website Notes": "Ditko",
+    "Personal Notes (Not on website)": "",
+    "Cost Basis": 100
   },
   {
     "Title": "Timmy the Timid Ghost",

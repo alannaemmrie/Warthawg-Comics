@@ -31,7 +31,7 @@ Building Website:
 
 Uploading to Filezilla:
 - Upload the contents of the build folder, making sure not to upload the folder itself
-- Confirm that the .htaccess file is uploaded in the right side (static folder)
+- Confirm that the .htaccess file is uploaded in the right side (which should show as /public_html)
 - Pushing to GitHub instructions is next step
 
 
