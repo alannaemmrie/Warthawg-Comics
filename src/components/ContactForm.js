@@ -9,14 +9,18 @@ const ContactForm = () => {
         document.getElementById('contact-form').addEventListener('submit', function(event) {
             event.preventDefault();
             emailjs.sendForm('contact_service', 'contact_form', this)
-                .then(function() {
-                    alert("Your email was sent!")
-                    console.log('SUCCESS!');
-                }, function(error) {
-                    alert("We were unable to send your email. Please try again later or email warthawgcomics@gmail.com directly.")
-                    console.log('FAILED...', error);
-                });
+                .then(response => {
+                    if(response.status == 200){
+                        console.log("success")
+                        alert("Your email was sent!")
+                    }
+                    else{
+                        console.log('error')
+                        alert("Sorry, your email could not be sent! Please try again later or email me directly.")
+                    }
+                })
         });
+        console.log("here");
     }
 
     return(
